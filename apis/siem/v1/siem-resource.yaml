@@ -1,0 +1,15 @@
+openapi: 3.0.0
+info:
+  title: Security Events
+  version: v1
+servers:
+- url: https://{hostname}/siem/v1
+tags:
+- description: |
+    View security event data generated on the Akamai platform in your SIEM application.
+  name: Events
+x-akamai:
+  auth-type: EDGE_GRID
+paths:
+  /configs/{configId}:
+    $ref: paths/config.yaml

@@ -4,8 +4,8 @@
   "instance": "https://akab-1234abcd.luna.akamaiapis.net/siem/v1/configs=123",
   "detail": "The specified user is unauthorized to access the requested data",
   "method": "GET",
-  "serverIp": "192.0.2.207",
-  "clientIp": "192.0.2.153",
+  "serverIp": "192.0.2.186",
+  "clientIp": "192.0.2.85",
   "requestId": "9cf2274",
   "requestTime": "2023-06-20T15:01:11Z"
 }

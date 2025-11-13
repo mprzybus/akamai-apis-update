@@ -1,0 +1,8 @@
+description: |
+  [Expired offset parameter in the request](ref:416).
+content:
+  application/problem+json:
+    example:
+      $ref: ../examples/siem-416.json
+    schema:
+      $ref: ../schemas/problem.yaml
