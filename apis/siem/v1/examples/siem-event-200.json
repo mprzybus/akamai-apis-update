@@ -6,6 +6,7 @@
     "clientIP": "192.0.2.82",
     "configId": "14227",
     "policyId": "qik1_26545",
+    "appliedAction": "alert",
     "ruleActions": "YWxlcnQ%3d%3bYWxlcnQ%3d%3bZGVueQ%3d%3d",
     "ruleData": "dGVsbmV0LmV4ZQ%3d%3d%3bdGVsbmV0LmV4ZQ%3d%3d%3bVmVjdG9yIFNjb3JlOiAxMCwgREVOWSB0aHJlc2hvbGQ6IDksIEFsZXJ0IFJ1bGVzOiA5NTAwMDI6OTUwMDA2LCBEZW55IFJ1bGU6ICwgTGFzdCBNYXRjaGVkIE1lc3NhZ2U6IFN5c3RlbSBDb21tYW5kIEluamVjdGlvbg%3d%3d",
     "ruleMessages": "U3lzdGVtIENvbW1hbmQgQWNjZXNz%3bU3lzdGVtIENvbW1hbmQgSW5qZWN0aW9u%3bQW5vbWFseSBTY29yZSBFeGNlZWRlZCBmb3IgQ29tbWFuZCBJbmplY3Rpb24%3d",
@@ -37,7 +38,8 @@
   },
   "userRiskData": {
     "uuid": "964d54b7-0821-413a-a4d6-8131770ec8d5",
-    "username": "jsmith",
+    "username": "jsmith@example.com",
+    "emailDomain": "example.com",
     "originUserId": "jsmith007",
     "status": "0",
     "score": "75",
@@ -55,5 +57,10 @@
   "botData": {
     "botScore": "100",
     "responseSegment": "3"
+  },
+  "identity": {
+    "ja4": "t13d201100_2b729b4bf6f3_9e7b989ebec8",
+    "tlsFingerprintV2": "46008b1582967146",
+    "tlsFingerprintV3": "3~fe38c35477967146"
   }
 }

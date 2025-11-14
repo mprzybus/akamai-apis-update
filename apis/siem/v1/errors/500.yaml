@@ -1,0 +1,8 @@
+description: |
+  [Any other server error](ref:500).
+content:
+  application/problem+json:
+    example:
+      $ref: ../examples/siem-500.json
+    schema:
+      $ref: ../schemas/problem.yaml

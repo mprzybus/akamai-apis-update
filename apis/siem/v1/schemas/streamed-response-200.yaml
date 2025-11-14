@@ -1,0 +1,5 @@
+description: |
+  A series of events arranged as separate JSONs, one per line of output within the response body. The final line offers contextual metadata for further requests. See [Multi-JSON responses](ref:multi-json-response-format-1).
+oneOf:
+  - $ref: siem-event-200.yaml
+  - $ref: siem-response-context.yaml

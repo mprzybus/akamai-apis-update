@@ -1,10 +1,7 @@
 name: to
 in: query
-description: |-
-  The end of a specified time range, expressed in Unix epoch seconds.  You can't use this parameter in offset mode and it's an optional parameter in time-based mode. If omitted, the value defaults to the current time.
-  
-x-akamai:
-  file-path: parameters/to-query.yaml
+description: |
+  The end of a specified time range, expressed in Unix epoch seconds. You can't use this parameter in offset mode, and it's optional in time-based mode. The value can't be any greater than the default value: five seconds before the current time.
 schema:
   type: integer
   example: 1488816784
