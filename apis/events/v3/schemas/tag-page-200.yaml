@@ -1,5 +1,5 @@
 type: object
-description: |-
+description: |
   Contains a list of tags for the current account and contract type. It also provides context about the requested data based on the request's parameters.
   
 x-akamai:

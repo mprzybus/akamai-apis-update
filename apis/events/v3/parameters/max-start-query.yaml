@@ -1,6 +1,6 @@
 name: maxStart
 in: query
-description: |-
+description: |
   The exclusive upper bound of a start date.
   
 x-akamai:

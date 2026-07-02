@@ -1,5 +1,5 @@
 type: object
-description: |-
+description: |
   Contains information about a Content Provider (CP) code for the event.
   
 x-akamai:

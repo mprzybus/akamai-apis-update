@@ -1,6 +1,6 @@
 name: maxEnd
 in: query
-description: |-
+description: |
   The inclusive upper bound of an end date.
   
 x-akamai:

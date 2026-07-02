@@ -1,5 +1,5 @@
 type: object
-description: |-
+description: |
   Contains information about the recurrence parameters that you can specify when creating the event.
   
 x-akamai:

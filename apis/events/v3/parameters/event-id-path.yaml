@@ -1,6 +1,6 @@
 name: eventId
 in: path
-description: |-
+description: |
   The identifier of the event.
   
 x-akamai:

@@ -1,4 +1,4 @@
-description: |-
+description: |
   [Bad request](https://techdocs.akamai.com/event-ctr/reference/400). Invalid request. Details may be available in the response body.
   
 x-akamai:

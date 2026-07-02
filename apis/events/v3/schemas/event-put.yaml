@@ -1,5 +1,5 @@
 type: object
-description: |-
+description: |
   Contains information about the request body parameters that you can specify when updating an event. It also includes tags and objects that you can associate with an event.
   
 x-akamai:

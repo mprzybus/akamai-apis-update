@@ -1,4 +1,4 @@
-description: |-
+description: |
   [Conflict](https://techdocs.akamai.com/event-ctr/reference/409). The event was modified after you retrieved it. Please refetch the event, reconcile possible differences and resubmit the request.
   
 x-akamai:

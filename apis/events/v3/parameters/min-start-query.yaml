@@ -1,6 +1,6 @@
 name: minStart
 in: query
-description: |-
+description: |
   The inclusive lower bound of a start date.
   
 x-akamai:

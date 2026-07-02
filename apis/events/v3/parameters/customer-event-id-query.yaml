@@ -1,6 +1,6 @@
 name: customerEventId
 in: query
-description: |-
+description: |
   A list of user-defined IDs to filter event data by.
   
 x-akamai:

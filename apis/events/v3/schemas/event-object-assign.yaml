@@ -1,5 +1,5 @@
 type: object
-description: |-
+description: |
   Contains information about the CP codes that you can associate with the event.
   
 x-akamai:

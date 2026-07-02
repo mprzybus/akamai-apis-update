@@ -1,4 +1,4 @@
-description: |-
+description: |
   [Conflict](https://techdocs.akamai.com/event-ctr/reference/409). An event with same name, start and end already exists.
   
 x-akamai:

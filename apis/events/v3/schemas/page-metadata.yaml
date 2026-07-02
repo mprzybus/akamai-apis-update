@@ -1,5 +1,5 @@
 type: object
-description: |-
+description: |
   Collects context about the requested data based on the request's parameters.
   
 x-akamai:

@@ -1,5 +1,5 @@
 type: object
-description: |-
+description: |
   Provides information about a country that matches the geographic area of an audience.
   
 x-akamai:

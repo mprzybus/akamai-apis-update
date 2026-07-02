@@ -1,6 +1,6 @@
 name: tag
 in: query
-description: |-
+description: |
   A list of tags to filter event data by.
   
 explode: true
